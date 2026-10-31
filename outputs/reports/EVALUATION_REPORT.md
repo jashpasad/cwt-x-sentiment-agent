@@ -141,7 +141,7 @@ Coverage gaps in the historical corpus (220 well-covered days; longest unbroken 
 ![Feature importance (gain).](../charts/09_feature_importance.png)
 *Feature importance (gain).*
 
-## 8. Live window (Apify, last 180 days)
+## 8. Live window (Apify, X posts 3–31 Oct 2026; prices for the last 180 days)
 
 | Model (trained on 2021-23 only) | h | OOS R² vs RW | Dir. acc. | PI80 cover |
 |---|---|---|---|---|
@@ -154,8 +154,8 @@ Coverage gaps in the historical corpus (220 well-covered days; longest unbroken 
 
 *156 dense hourly samples, 2026-10-25 06:00 → 2026-10-31 17:00 UTC. Too few hours for inference — a transfer smoke test showing the 2021-23 model and its intervals behave sensibly in 2026.*
 
-![Live 180-day window: price, X sentiment, attention, Fear & Greed.](../charts/10_live_180d_sentiment_vs_price.png)
-*Live 180-day window: price, X sentiment, attention, Fear & Greed.*
+![Live window: 180 days of price and Fear & Greed; X sentiment available 3–31 Oct 2026 (scrape budget/time-limited).](../charts/10_live_180d_sentiment_vs_price.png)
+*Live window: 180 days of price and Fear & Greed; X sentiment available 3–31 Oct 2026 (scrape budget/time-limited).*
 
 ![Example out-of-sample multi-horizon forecast with 80% conformal band.](../charts/06_forecast_fan.png)
 *Example out-of-sample multi-horizon forecast with 80% conformal band.*

@@ -4,7 +4,7 @@
 
 **Price state.** BTC $77,405: +0.6% 24h, -4.0% 7d, -8.7% 30d, -3.3% over 180d. -11.2% below the 180-day high ($87,167); 180-day low $58,290. Realised vol 16% (24h) vs 33% (30d), annualised.
 
-**Social sentiment.** X via Apify: 5,807 posts sampled across 478 hourly windows (180 days); 3% flagged automation-like and excluded below. Human net sentiment: last 24h +0.21, last 7d +0.19, vs +0.19 over the prior ~173 days. Bearish share P(bear): last 24h 0.15 vs 0.21 baseline. Attention: ~906 posts/hour over the last day vs ~903 7-day median (rate is only comparable within the recent window). Crypto Fear & Greed 30 (Fear), 30-day mean 58.
+**Social sentiment.** X via Apify: 5,807 posts sampled across 478 hourly windows (3–31 Oct 2026); 3% flagged automation-like and excluded below. Human net sentiment: last 24h +0.21, last 7d +0.19, vs +0.19 over 3–24 Oct. Bearish share P(bear): last 24h 0.15 vs 0.21 baseline. Attention: ~906 posts/hour over the last day vs ~903 7-day median (rate is only comparable within the recent window). Crypto Fear & Greed 30 (Fear), 30-day mean 58.
 
 **News drivers (last 7 days).**
 - **31 Oct** — Bitcoin ETFs Bleed $643 Million in a Single Day, Erasing a Week of Buying — BigGo Finance (finance.biggo.com)

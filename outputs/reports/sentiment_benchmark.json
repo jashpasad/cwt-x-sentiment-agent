@@ -1,0 +1,14 @@
+{
+  "n_train": 509943,
+  "n_test": 89990,
+  "fit_seconds": 230.3,
+  "posts_per_second": 20441,
+  "cryptolex_acc_3class": 0.5635,
+  "cryptolex_macroF1_3class": 0.517,
+  "cryptolex_acc_3class_sub": 0.5645,
+  "vader_acc_3class_sub": 0.3901,
+  "cryptolex_macroF1_sub": 0.5188,
+  "vader_macroF1_sub": 0.3473,
+  "cryptolex_bull_vs_bear_auc": 0.8619,
+  "vader_bull_vs_bear_auc": 0.5754
+}
